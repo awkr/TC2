@@ -3,7 +3,9 @@ A multiplayer parkour game based on Unreal Engine, inspired by Chrome dinosour.
 
 # Operation
 `W` `S` move forward & backward
+
 `A` `D` move right & left
+
 `Space` `Left` mouse button jump
 
 # Snapshots
